@@ -59,7 +59,7 @@ public class Solution
         eight = 8,
         nine = 9
     }
-
+ 
     public static int StringToInt(string inputString)
     {
         switch (inputString)

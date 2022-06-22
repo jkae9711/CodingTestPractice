@@ -1,4 +1,4 @@
-﻿// #5 : 모의고사
+// #5 : 모의고사
 
 using System;
 using System.Linq;

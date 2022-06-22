@@ -25,6 +25,6 @@ public class Solution
         answer = answer.Where(x => x != 0).ToArray();
         Array.Sort(answer);
 
-        return answer;
+        return answer; 
     }
 }

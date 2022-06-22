@@ -22,7 +22,7 @@ public class Solution
                 {
                     iCountMatch++;
                 }
-            }
+            } 
         }
 
         int[] answer = new int[2] {GetRank(iCountMatch + iCountZero),

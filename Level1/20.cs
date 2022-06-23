@@ -15,6 +15,6 @@ public class Solution
 
         return answer
             .Append(phone_number.Substring(phone_number.Length - 4, 4))
-            .ToString();
+            .ToString(); 
     }
 }
